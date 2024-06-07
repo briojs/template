@@ -1,4 +1,4 @@
-## Ndst
+## <PACKAGE_NAME>
 
 [![npm version](https://img.shields.io/npm/v/<PACKAGE_NAME>?color=yellow)](https://npmjs.com/package/<PACKAGE_NAME>)
 [![npm downloads](https://img.shields.io/npm/dm/<PACKAGE_NAME>?color=yellow)](https://npmjs.com/package/<PACKAGE_NAME>)
